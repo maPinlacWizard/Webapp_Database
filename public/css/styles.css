@@ -1,0 +1,22 @@
+.btn-sm {
+    width: 80px; /* Adjust the width as needed */
+}
+
+.row {
+    margin-bottom: 10px; /* Add space between rows */
+}
+
+#table-select {
+    margin-bottom: 10px; /* Add space below the select table dropdown */
+}
+
+.table-actions {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the actions */
+}
+
+th.actions-header {
+    text-align: center; /* Center the Actions column header */
+}

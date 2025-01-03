@@ -1,0 +1,20 @@
+{
+  "name": "crud-application",
+  "version": "1.0.0",
+  "description": "A simple CRUD application connected to Azure SQL database",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mssql": "^6.3.1",
+    "express-session": "^1.17.1"
+  },
+  "author": "Matthew Aaron Pinlac",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
